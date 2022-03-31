@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-<h1 align="center">자연<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>rizkyrahma Desu!</h1>
+<h1 align="center">彼らの生計<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>rizkyrahma Desu!</h1>
 
 <p align="center">
 <img src="https://telegra.ph/file/45480ebfa80956db91f7a.png" alt="rizkyrahma"
@@ -18,6 +18,10 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/senpai_chan_gemoy)
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285888083108)
+<p align="center">
+  <a href="https://youtube.com/channel/UC2_TYQjXx5yvvXvPEW849mw"><img src="https://img.shields.io/badge/YouTube-AlamBotz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
+  <a name=rizkyrahma&label=VIEWS&style=flat-square&color=orange" />
+
 
 ---------
 
@@ -29,6 +33,7 @@
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
 <img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php" />
 <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" />
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 
 ---------
 
