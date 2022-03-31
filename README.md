@@ -2,9 +2,9 @@
 <img src="https://telegra.ph/file/45480ebfa80956db91f7a.png" alt="rizkyrahma"
 </p>
 
-## Jangan lupa kasih stars & follow :)
+# Jangan lupa kasih stars & follow :)
 
-<a href="//youtube.com/c/AmmarBN"><img align="center" src="https://cardivo.vercel.app/api?name=Alam🌱&description=Halo,%20I%27m%20Alam Burhanuddin Nafis%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/rizkyrahma&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=rizkyrahma&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
+<a href="//youtube.com/c/AmmarBN"><img align="center" src="https://cardivo.vercel.app/api?name=Alam🌱&description=Halo,%20I%27m%20Alam🌱 Burhanuddin Nafis%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/rizkyrahma&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=rizkyrahma&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
 </p>
 
 <p align="center">
@@ -80,3 +80,18 @@ return bio
 // Don't bully me >///<
 
 ```
+</p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=rizkyrahma)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/rizkyrahma?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+
+</details> 
+<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
