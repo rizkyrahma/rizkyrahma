@@ -16,12 +16,25 @@
 
 ---------
 
+## Connect with me ☎️
 [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/senpai_chan_gemoy)
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285888083107)
 <p align="center">
   <a href="https://youtube.com/channel/UC2_TYQjXx5yvvXvPEW849mw"><img src="https://img.shields.io/badge/YouTube-AlamBotz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
   <a name=rizkyrahma&label=VIEWS&style=flat-square&color=orange" />
 
+### Pubg mobile 🎮
+<p align="center">
+  <img src="https://github.com/Andriiwalker/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
+</p>
+
+---------
+
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
 
 ---------
 
@@ -62,7 +75,7 @@
 
 <h3 align="left">Visitor</h3>
 <p align="center">
-<img src="https://count.getloli.com/get/@rizkyrahma?theme=rule34" alt="visitor.svg">
+<img src="https://count.getloli.com/get/@ZeroChanBot?theme=rule34" alt="visitor.svg">
   <a href="https://komarev.com/ghpvc/?username=rizkyrahma&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=rizkyrahma&color=blue&style=flat-square&label=Profile+View"></a>
 </p>    
 
@@ -79,7 +92,7 @@ var bio = `
 
 Name: Alam 🌱
 From: Indonesia 🇮🇩
-Age: 15
+Age: 17
 Currently learning: Html, JavaScript
 `
 return bio
