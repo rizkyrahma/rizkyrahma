@@ -17,7 +17,7 @@
 ---------
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/senpai_chan_gemoy)
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285888083108)
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285888083107)
 <p align="center">
   <a href="https://youtube.com/channel/UC2_TYQjXx5yvvXvPEW849mw"><img src="https://img.shields.io/badge/YouTube-AlamBotz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
   <a name=rizkyrahma&label=VIEWS&style=flat-square&color=orange" />
