@@ -23,7 +23,7 @@
   <a href="https://youtube.com/channel/UC2_TYQjXx5yvvXvPEW849mw"><img src="https://img.shields.io/badge/YouTube-AlamBotz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
   <a name=rizkyrahma&label=VIEWS&style=flat-square&color=orange" />
 
-### Pubg mobile 🎮
+## Pubg mobile 🎮
 <p align="center">
   <img src="https://github.com/Andriiwalker/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
 </p>
