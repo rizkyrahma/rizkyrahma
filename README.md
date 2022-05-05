@@ -90,9 +90,9 @@
 
 var bio = `
 
-Name: Alam 🌱
-From: Indonesia 🇮🇩
-Age: 17
+Name: Trần Văn Nhất 🌱
+From: Viet Nam 🇮🇩
+Age: 19
 Currently learning: Html, JavaScript
 `
 return bio
